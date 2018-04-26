@@ -1,3 +1,2 @@
 default
-playeranim?
-playertag?
+3d_armor?
